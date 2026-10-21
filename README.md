@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou a Thayssa 👋</h1>
 <p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas · Estagiária de Suporte de TI · Rio de Janeiro, Brasil
+  Estudante de Análise e Desenvolvimento de Sistemas · Desenvolvedora em formação · Rio de Janeiro, Brasil
 </p>
 
 <p align="center">
@@ -13,15 +13,13 @@
 
 ## Sobre mim
 
-Gosto de entender como as coisas funcionam por dentro e de transformar tarefas manuais em processos automáticos.
+Gosto de entender como as coisas funcionam por dentro e de transformar ideias em aplicações web.
 
-- 💼 Estagiária de **Suporte de TI** na IT On Business desde dez/2025
-- ⚙️ Criei uma automação no **Power Automate** que integra SharePoint e e-mail e deixou rastreável o histórico de alterações de cadastros
-- 🛡️ Conduzi a implantação do **Kaspersky** em um cliente de grande porte: **77 usuários** até agora
 - 🎓 Cursando **ADS no SENAC** (EAD), **Full Stack Java na EBAC** e **Front-end na Origamid**
+- 💻 Desenvolvo projetos próprios, do front-end com React ao back-end com C# e .NET
 - 🌎 Inglês avançado
 
-> *Systems Analysis and Development student and IT Support intern from Brazil. I enjoy automating repetitive work and building web apps. Advanced English.*
+> *Systems Analysis and Development student from Brazil, building web apps with JavaScript, React and C#. Advanced English.*
 
 ---
 
@@ -49,11 +47,9 @@ Gosto de entender como as coisas funcionam por dentro e de transformar tarefas m
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
-**Dados, automação e ferramentas**
+**Dados e ferramentas**
 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
-![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
