@@ -29,8 +29,8 @@ Gosto de entender como as coisas funcionam por dentro e de transformar ideias em
 |---|---|---|---|
 | **Controle de Gastos Residenciais** | Sistema full stack para cadastrar pessoas, registrar receitas e despesas e consultar totais por pessoa e da residência | C# · .NET · React · TypeScript · SQLite | [Código](https://github.com/ThayssaDev/controle-gastos-residenciais) |
 | **Calculadora de Médias** | Organiza atividades e notas em uma tabela, calcula a média automaticamente e indica aprovação | JavaScript · HTML · CSS | [Site](https://thayssadev.github.io/calculadora-medias/) · [Código](https://github.com/ThayssaDev/calculadora-medias) |
-| **Agenda Telefônica** | Tabela dinâmica de contatos com máscara de telefone (regex) e bloqueio de duplicados | JavaScript · HTML · CSS | [Site](https://agenda-telefonica-pearl.vercel.app/) · [Código](https://github.com/ThayssaDev/Agenda_telefonica) |
-| **Thay Motors** | Site responsivo de concessionária com menu mobile, carrossel e formulário com validação | HTML · CSS · JavaScript · jQuery | [Site](https://thay-motors.vercel.app/) · [Código](https://github.com/ThayssaDev/Thay_Motors) |
+| **Agenda Telefônica** | Tabela dinâmica de contatos com máscara de telefone (regex) e bloqueio de duplicados | JavaScript · HTML · CSS | [Site](https://agenda-telefonica-pearl.vercel.app/) · [Código](https://github.com/ThayssaDev/agenda-telefonica) |
+| **Thay Motors** | Site responsivo de concessionária com menu mobile, carrossel e formulário com validação | HTML · CSS · JavaScript · jQuery | [Site](https://thay-motors.vercel.app/) · [Código](https://github.com/ThayssaDev/thay-motors) |
 
 ---
 
