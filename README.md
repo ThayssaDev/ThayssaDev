@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/thayssa-braga"><img src="https://img.shields.io/badge/LinkedIn-thayssa--braga-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:thayssa.braga00@gmail.com"><img src="https://img.shields.io/badge/E--mail-thayssa.braga00@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
-  <a href="[https://portifolio-alpha-ten-83.vercel.app/](https://github.com/ThayssaDev/thayssadev.github.io)"><img src="https://img.shields.io/badge/Portf%C3%B3lio-Ver%20site-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"></a>
+  <a href="https://portifolio-alpha-ten-83.vercel.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-Ver%20site-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"></a>
 </p>
 
 ---
